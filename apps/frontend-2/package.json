@@ -1,0 +1,12 @@
+{
+  "name": "@apps/frontend-2",
+  "version": "1.0.0",
+  "description": "Library 2",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Antoine Coulon",
+  "license": "ISC"
+}

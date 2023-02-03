@@ -1,0 +1,12 @@
+{
+  "name": "@libs/lib2",
+  "version": "1.0.0",
+  "description": "Lib2",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Antoine Coulon",
+  "license": "ISC"
+}

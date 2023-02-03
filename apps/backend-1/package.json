@@ -1,0 +1,15 @@
+{
+  "name": "@apps/backend-1",
+  "version": "1.0.0",
+  "description": "Backend 1",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Antoine Coulon",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "~18.11.18"
+  }
+}

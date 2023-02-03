@@ -1,0 +1,12 @@
+{
+  "name": "@libs/design-system",
+  "version": "1.0.0",
+  "description": "Design System",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Antoine Coulon",
+  "license": "ISC"
+}

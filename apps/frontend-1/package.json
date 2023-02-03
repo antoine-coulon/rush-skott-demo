@@ -1,0 +1,15 @@
+{
+  "name": "@apps/frontend-1",
+  "version": "1.0.0",
+  "description": "Frontend 1",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "Antoine Coulon",
+  "license": "ISC",
+  "dependencies": {
+    "@libs/design-system": "workspace:*"
+  }
+}
